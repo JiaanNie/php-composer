@@ -1,5 +1,15 @@
 {
     "name": "demo-learning/composer-learning",
-    "type": "metapackage"
+    "type": "metapackage",
+    "repositories": [
+        {
+            "type" : "path",
+            "url" : "./package1"
+        }
+        {
+            "type" : "path",
+            "url" : "./package2"
+        }
+    ]
 
 }
