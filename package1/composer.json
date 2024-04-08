@@ -1,5 +1,6 @@
 {
     "name": "demo-learning/package1",
+    "version": "1.0.0",
     "require": {
         "monolog/monolog": "^2.3"
     }

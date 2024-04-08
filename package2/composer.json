@@ -1,5 +1,6 @@
 {
     "name": "demo-learning/package2",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {"Acme\\": "src/"}
     }
