@@ -1,5 +1,5 @@
 {
-    "name": "learning/composer",
+    "name": "demo-learning/composer",
     "require": {
         "monolog/monolog": "^2.3"
     },
