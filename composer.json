@@ -5,7 +5,7 @@
         {
             "type" : "path",
             "url" : "./package1"
-        }
+        },
         {
             "type" : "path",
             "url" : "./package2"
